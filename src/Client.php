@@ -1829,8 +1829,6 @@ class Client {
 			);
 		}
 
-		\curl_close($ch);
-
 		$decoded = @json_decode($result, true);
 		if ($decoded === null) {
 			$this->writeToTraceLog("Failed: returned value is not parsable JSON");
