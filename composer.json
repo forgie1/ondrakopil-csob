@@ -1,5 +1,5 @@
 {
-    "name": "ondrakoupil/csob-eapi-paygate",
+    "name": "forgie1/csob-eapi-paygate",
     "description": "PHP Client library for easy integration of ČSOB payment gateway",
     "type": "library",
     "homepage": "https://github.com/ondrakoupil/csob",
